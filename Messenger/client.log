@@ -1,0 +1,1 @@
+2018-06-06 19:35:19,926 - INFO - args: (<__main__.Client object at 0x10513a5c0>,) = <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 53074), raddr=('127.0.0.1', 8888)> - __connect - __main__
